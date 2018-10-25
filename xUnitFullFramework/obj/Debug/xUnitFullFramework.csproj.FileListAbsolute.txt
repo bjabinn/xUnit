@@ -1,0 +1,7 @@
+C:\Users\jbeltrma\Documents\Visual Studio 2017\Projects\xUnitFullFramework\xUnitFullFramework\bin\Debug\xUnitFullFramework.exe.config
+C:\Users\jbeltrma\Documents\Visual Studio 2017\Projects\xUnitFullFramework\xUnitFullFramework\bin\Debug\xUnitFullFramework.exe
+C:\Users\jbeltrma\Documents\Visual Studio 2017\Projects\xUnitFullFramework\xUnitFullFramework\bin\Debug\xUnitFullFramework.pdb
+C:\Users\jbeltrma\Documents\Visual Studio 2017\Projects\xUnitFullFramework\xUnitFullFramework\obj\Debug\xUnitFullFramework.csprojAssemblyReference.cache
+C:\Users\jbeltrma\Documents\Visual Studio 2017\Projects\xUnitFullFramework\xUnitFullFramework\obj\Debug\xUnitFullFramework.csproj.CoreCompileInputs.cache
+C:\Users\jbeltrma\Documents\Visual Studio 2017\Projects\xUnitFullFramework\xUnitFullFramework\obj\Debug\xUnitFullFramework.exe
+C:\Users\jbeltrma\Documents\Visual Studio 2017\Projects\xUnitFullFramework\xUnitFullFramework\obj\Debug\xUnitFullFramework.pdb
